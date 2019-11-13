@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.grid {
+    margin: 1px 17px;
+}
+
+.grid .row {
+    height: 25px;
+}
+
+.navbar {
+    margin: 0;
+    height: 60px;
+    width: 100vw;
+    background: #ecf0f1;
+}
+
+.nav-item {
+    margin: 0 20px;
+}
+
+.dropdown-item, .nav-link {
+    cursor: pointer;
+}
